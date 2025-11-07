@@ -36,6 +36,7 @@ def main():
     print("Hello, World!")  # Added Hello World functionality
     my_array = [1,-5,5, 2, 3, 4, 5, 2, -2, 3, -3, 4, -4]  # Declare an array
     print(my_array)  # Print the array
+    
     print("Longest subarray length:", longest_subarray(my_array))  # Print longest subarray length
     
 

@@ -12,6 +12,7 @@ Moreover, prompt engineering plays a vital role in this process. Crafting precis
 
 In summary, while AI tools like **GitHub Copilot** can greatly aid in the coding process, the responsibility lies with developers to validate, refine, and enhance the generated code, ensuring that they remain proficient and capable in their craft.
 
+
 ---
 
 ## 📑 Table of Contents
